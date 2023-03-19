@@ -1,6 +1,6 @@
-'''
-Contains all color related functions
-'''
+"""
+Contains all color related functions.
+"""
 
 def purple(msg: str):
     return "\033[95m"+msg+"\033[0m"

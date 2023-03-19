@@ -1,11 +1,11 @@
-'''
+"""
 Contains all logging-related functions.
-'''
+"""
 
 _private_log_level: int = 0
 
 def Log(variable):
-    print("[DEBUG]      "+variable)
+    print("[DEBUG]      "+str(variable))
 
 def PInfo(msg: str, level_matters:bool=False):
     if level_matters:

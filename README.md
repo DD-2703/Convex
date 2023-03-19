@@ -1,6 +1,6 @@
 # Convex
 
-`convex` is a tool that allows users to access missing functionality in `Python`, like colors, logging (which although can be used with the `logging` module, seems pretty incovenient.)
+`convex` is a tool that allows users to access missing functionality in `Python`, like colors, logging (which adds some more features compared to the `logging` module.)
 
 1. [Installation](#installation)
 
